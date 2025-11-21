@@ -1,6 +1,6 @@
 #!/bin/bash
 #https://doi.org/10.1093/bioinformatics/btac669
-# Creat Tree2gd Environment
+# Create Tree2gd Environment
 conda create -n Tree2gd python=3.8 -y
 
 # Activate Tree2gd environment
